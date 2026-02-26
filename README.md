@@ -14,6 +14,18 @@ registro_page.dart: Pantalla de formulario. AppBar azul claro con bordes redonde
 A new Flutter project.
 
 ## Getting Started
+<img width="404" height="720" alt="image" src="https://github.com/user-attachments/assets/ce13ae61-4303-4b6d-8507-a3ab9389b5cd" />
+<img width="406" height="707" alt="image" src="https://github.com/user-attachments/assets/8aacbc27-cc7e-498e-b4b7-f4757e845a85" />
+<img width="402" height="707" alt="image" src="https://github.com/user-attachments/assets/53dcaa9d-cb77-4d9e-a637-dece45800804" />
+
+<img width="314" height="759" alt="image" src="https://github.com/user-attachments/assets/b517bdb8-30cd-417e-8456-8af98d66c785" />
+<img width="430" height="751" alt="image" src="https://github.com/user-attachments/assets/98b52a0d-2587-44d6-954c-26c3d9a64bd4" />
+<img width="429" height="760" alt="image" src="https://github.com/user-attachments/assets/3d05a2fb-4385-4690-a9dd-fba22b9f5739" />
+
+
+
+
+
 
 This project is a starting point for a Flutter application.
 
